@@ -11,7 +11,7 @@
   * [2. Sector Analysis](#2-sector-analysis)
   * [3. Immigration Analysis](#3-immigration-analysis)
   * [4. Immigrant Demographic Insights](#4-immigrant-demographic-insights)
-  * [5. Forecasting](#5-forecasting)
+  * [5. Forecasting Future Immigrant Jobs](#5-forecasting-future-immigrant-jobs)
 * [Key Insights](#key-insights)
 * [What I Learned](#what-i-learned)
 
@@ -78,7 +78,7 @@ In Power BI:
   <img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/68de1f30-9c35-48af-a3d0-1160b99963b2" />
 
 
-### 3. Immigration Analysis
+### 3. Immigration Flow Analysis
 
 * Immigration inflows by country
 * Origin and destination analysis
@@ -94,7 +94,7 @@ In Power BI:
   <img width="1426" height="804" alt="image" src="https://github.com/user-attachments/assets/587f89b5-bf99-485e-bd5b-51c97412399a" />
 
 
-### 5. Forecasting
+### 5. Forecasting Future Immigrant Jobs
 
 * Predicted immigration inflows
 * Future workforce trends
