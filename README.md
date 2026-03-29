@@ -37,7 +37,7 @@ The dashboard enables users to explore:
 
 ## Data Sources
 
-The project uses multiple datasets from the World Bank Group related to:
+The project uses multiple datasets from the [World Bank Group](https://data.worldbank.org/country) related to:
 
 * GDP indicators (market price, GDP per capita)
 * GDP by sector (agriculture, industry, services)
