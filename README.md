@@ -49,12 +49,10 @@ The project uses multiple datasets from the [World Bank Group](https://data.worl
 
 
 ## Data Cleaning/Preparation
-In Power Query:
+
 * Renamed columns to appropriate descriptors (e.g., `Indicator Name` --> `GDP Type`)
 * Removed empty columns and rows with missing values
 * Reformatted GDP values (e.g., `3248134606.77511` --> `$3,248,134,606.78`)
-
-In Power BI:
 * Created **Country** and **Year** dimension tables
 * Established relationships between tables
 
